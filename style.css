@@ -17,11 +17,14 @@ li {
     display: inline;
 }
 
-.active{
-      background-color: #4CAF50;
+.active1{
+      background-color: #303030;
       color: white;
 }
-
+#span_hellas_id{
+                font-size: 16px;
+                color: blue;
+}
 
 .center-image{
               height: 50%;
@@ -34,9 +37,6 @@ li {
                   background-color:  #DDDCCC;
 
                   }
-.intro .feature{
-                font-size: 12px;
-                }
 
 table{
       border-collapse: collapse;
